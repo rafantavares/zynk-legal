@@ -1,0 +1,11 @@
+Terms of Service - Content Publisher Zynk Fatos
+Effective date: 2026-08-13
+
+  This is a personal, non-commercial tool used solely by its owner to automatically publish AI-generated short-form videos to their own TikTok account via the TikTok Content Posting API.
+
+  - This app is not distributed to or used by any other party.
+  - By using this app, the owner agrees to comply with TikTok's Developer Terms of Service and Community Guidelines for all published content.
+  - The owner is solely responsible for the content published through this app.
+  - This app may be discontinued or modified at any time without notice.
+
+  Contact: rafanuntavares@gmail.com
